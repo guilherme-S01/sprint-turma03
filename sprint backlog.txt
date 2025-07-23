@@ -1,0 +1,10 @@
+História ID: 1
+Descrição: mudar cor dos nomes dos veículos na pagina index para azul
+esforço estimado: 2 Horas
+Observação: Editar o HTML manualmente.
+
+
+Historia ID:3
+Descrição:nome dos links para outras paginas mais detalhadas
+esforço estimado: 1 horas
+observação:editar manualmente
